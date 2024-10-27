@@ -2,7 +2,6 @@
 import { ShowIf } from '@/code/common/components';
 import { useGalleryEdit } from '../state/state.all';
 import EditGalleryMenu from '@/code/blocks/editMenu/galleryEdit';
-import GalleryEditManager from '../manager/editmanager';
 import { CodeManager } from '@/code/blocks';
 
 import GalleryCarousel from './gallery';
@@ -34,7 +33,6 @@ function GalleryMain({
       <GalleryList images={images} location={location}>
         <ShowIf.nowrap show={allowEdit}>
           <EditGalleryMenu type={type} ping={editAction} />
-          <GalleryEditManager />
           <CodeManager
             open={code.showCode}
             codetext={code.fileText}
@@ -49,7 +47,6 @@ function GalleryMain({
       <GalleryCarousel images={images} location={location}>
         <ShowIf.nowrap show={allowEdit}>
           <EditGalleryMenu type={type} ping={editAction} />
-          <GalleryEditManager />
           <CodeManager
             open={code.showCode}
             codetext={code.fileText}
