@@ -1,0 +1,26 @@
+.rt-DropdownMenuViewport {
+  padding: 4px;
+}
+
+/* remove border form checkbox card items */
+.rt-CheckboxCardsItem {
+  --checkbox-cards-item-border-width: 0px;
+  --base-card-border-radius: 0;
+}
+
+/* segmented control component */
+.rt-SegmentedControlItemLabel {
+  padding: 0;
+  margin: 0;
+}
+
+/* select */
+.rt-SelectViewport {
+  padding: 4px; /* decrease padding of content */
+}
+
+/* button */
+.rt-Button {
+  height: auto; /* gives complete control over its size prop */
+  line-height: normal; /* when icon is used, they align with text */
+}
