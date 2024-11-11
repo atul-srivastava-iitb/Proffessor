@@ -1,14 +1,7 @@
 import { PUBLICATION } from '@/code/features/publications/schema/publication.schema';
 
 export const journalsData: PUBLICATION[] = [
-  {
-    date: '2023',
-    initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
-    highlightedText:
-      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities',
-    finalText: 'Exp. Fluids 65, 3, 31 (2024)',
-    link: 'https://doi.org/10.1007/s00348-024-03769-1',
-  },
+  
   {
     date: '2024',
     initialText: 'Sachin Tom and Atul Srivastava',
@@ -42,6 +35,14 @@ export const journalsData: PUBLICATION[] = [
     finalText:
       'International Communications in Heat and Mass Transfer 159, 108160 (2024)',
     link: 'https://doi.org/10.1016/j.icheatmasstransfer.2024.108160',
+  },
+ {
+    date: '2023',
+    initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
+    highlightedText:
+      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities',
+    finalText: 'Exp. Fluids 65, 3, 31 (2024)',
+    link: 'https://doi.org/10.1007/s00348-024-03769-1',
   },
   {
     date: '2023',
