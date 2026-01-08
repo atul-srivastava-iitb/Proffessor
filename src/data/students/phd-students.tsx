@@ -24,7 +24,7 @@ export const phd_current: STUDENTS[] = [
     textb: '',
     textc: '.',
   },
-  { name: 'Rishika', image: '', texta: '', textb: '', textc: '.' },
+  { name: 'Rishika Tiwari', image: '', texta: '', textb: '', textc: '.' },
   {
     name: 'Aakhash Sundaresan',
     image: 'Aakash S.jpg',
