@@ -1,6 +1,14 @@
 import { STUDENTS } from '@/code/features/students/interface/student.interface';
 
 export const phd_current: STUDENTS[] = [
+   {
+    name: 'Srikant',
+    image: 'Manish_ME.jpg',
+    texta:
+      'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
+    textb: '',
+    textc: '.',
+  },
   {
     name: 'Manish Kumar',
     image: 'Manish_ME.jpg',
