@@ -17,8 +17,6 @@ export const phd_current: STUDENTS[] = [
     textb: '',
     textc: '.',
   },
-
-   
   {
     name: 'Yogesh Anandrao Yemalwad',
     image: 'Yogesh_ME.jpg',
