@@ -36,7 +36,7 @@ export const phd_current: STUDENTS[] = [
   },
   {
     name: 'Manish Kumar',
-    image: 'Manish_ME.jpg',
+    image: 'Manish Kumar.jpeg',
     texta:
       'The coupled vapour bubble dynamics and heat transfer over the downward-facing heating substrate in pool boiling.',
     textb: '',
