@@ -3,7 +3,7 @@ import { STUDENTS } from '@/code/features/students/interface/student.interface';
 export const phd_current: STUDENTS[] = [
    {
     name: 'Srikant Panigrahi',
-    image: 'Manish_ME.jpg',
+    image: 'Manis.jpg',
     texta:
       'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
     textb: '',
@@ -11,7 +11,7 @@ export const phd_current: STUDENTS[] = [
   }, 
     {
     name: 'Srijan Saxena',
-    image: 'Manish_ME.jpg',
+    image: 'Manis.jpg',
     texta:
       'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
     textb: '',
