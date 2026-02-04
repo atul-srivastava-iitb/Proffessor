@@ -11,7 +11,7 @@ export const phd_current: STUDENTS[] = [
   }, 
    {
     name: 'Vivek Kumar',
-    image: 'Vivek Kumar.jpg',
+    image: 'Vivek Kumar.jpeg',
     texta:
       'Hydrogen Bubble Dynamics during Electrolysis Process.',
     textb: '',
