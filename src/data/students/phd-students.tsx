@@ -2,7 +2,15 @@ import { STUDENTS } from '@/code/features/students/interface/student.interface';
 
 export const phd_current: STUDENTS[] = [
    {
-    name: 'Srikant',
+    name: 'Srikant Panigrahi',
+    image: 'Manish_ME.jpg',
+    texta:
+      'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
+    textb: '',
+    textc: '.',
+  }, 
+    {
+    name: 'Srijan Saxena',
     image: 'Manish_ME.jpg',
     texta:
       'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
@@ -30,7 +38,7 @@ export const phd_current: STUDENTS[] = [
     name: 'Manish Kumar',
     image: 'Manish_ME.jpg',
     texta:
-      'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
+      'The coupled vapour bubble dynamics and heat transfer over the downward-facing heating substrate in pool boiling.',
     textb: '',
     textc: '.',
   },
