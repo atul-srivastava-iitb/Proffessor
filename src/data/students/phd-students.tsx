@@ -5,7 +5,7 @@ export const phd_current: STUDENTS[] = [
     name: 'Srikant Panigrahi',
     image: 'Manis.jpg',
     texta:
-      'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
+      '',
     textb: '',
     textc: '.',
   }, 
@@ -13,7 +13,7 @@ export const phd_current: STUDENTS[] = [
     name: 'Srijan Saxena',
     image: 'Manis.jpg',
     texta:
-      'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
+      '',
     textb: '',
     textc: '.',
   }, 
