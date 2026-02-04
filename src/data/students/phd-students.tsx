@@ -8,6 +8,15 @@ export const phd_current: STUDENTS[] = [
       'The phenomena of boiling heat transfer over cylindrical and planar surfaces.',
     textb: '',
     textc: '.',
+  }, 
+   {
+    name: 'Mohamed Ilyas A',
+    image: 'Mohamed Ilyas A.jpg',
+    texta:
+      'Simultaneous thermal and flow field investigation of Vortex-Induced heat transfer enhancement.',
+    textb: '',
+    textc: '',
+    link: '',
   },
   {
     name: 'Manish Kumar',
