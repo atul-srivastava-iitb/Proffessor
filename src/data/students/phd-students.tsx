@@ -93,14 +93,7 @@ export const phd_current: STUDENTS[] = [
     textb: '',
     textc: 'Jointly supervised with Prof. Avishek Ranjan',
   },
-  {
-    name: 'Debaraj sahoo',
-    image: 'Debaraj.jpg',
-    texta:
-      'Study of microstructure evolution of Fe-Cu immiscible alloy using Aerodynamic levitation',
-    textb: '',
-    textc: 'Jointly supervised with Prof. Sushil Mishra',
-  },
+
   {
     name: 'Anant Singhal',
     image: 'Anant S.jpg',
@@ -114,6 +107,16 @@ export const phd_current: STUDENTS[] = [
 
 export const phd_alumni: STUDENTS[] = [
   {
+    name: 'Debaraj sahoo',
+    image: 'Debaraj.jpg',
+    texta:
+      'Study of microstructure evolution of Fe-Cu immiscible alloy using Aerodynamic levitation',
+    textb:
+      'Current Position: ',
+    textc: 'Year of graduation: 2024',
+  },
+   
+   {
     name: 'Dr. Ila Thakur',
     image: 'Ila T..JPG',
     texta:
