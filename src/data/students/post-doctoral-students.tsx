@@ -9,7 +9,7 @@ export const postd_current: STUDENTS[] = [
     textc: '',
   },
   {
-    image: 'Sachin Tom.jpg',
+    image: 'Harpreet Kaur.jpg',
     name: 'Dr. Harpreet Kaur',
     texta: '.',
     textb: 'Year of Joining: 2023',
