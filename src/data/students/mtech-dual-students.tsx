@@ -1,7 +1,17 @@
 import { STUDENTS } from '@/code/features/students/interface/student.interface';
 
 export const mtech_current: STUDENTS[] = [
-  {
+   {
+    name: 'Harsh Saini',
+    image: 'Harsh Saini.jpg',
+    texta: 'Fluid flow and heat transfer characteristics of Direct Contact Condensation (DCC) for semi Cryogenic applications.',
+    textb: '',
+    textc: '',
+  },
+];
+
+export const mtech_alumni: STUDENTS[] = [
+   {
     name: 'Lt. Cdr. Abhilash Cherian',
     image: 'abhilash.jpg',
     texta: '',
@@ -9,9 +19,7 @@ export const mtech_current: STUDENTS[] = [
     textc: '',
   },
   { name: 'Pritesh Srivastava', image: '', texta: '', textb: '', textc: '' },
-];
-
-export const mtech_alumni: STUDENTS[] = [
+  
   {
     name: 'Bor Hessian',
     image: 'Bor h.jpg',
