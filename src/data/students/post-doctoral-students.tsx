@@ -1,16 +1,31 @@
 import { STUDENTS } from '@/code/features/students/interface/student.interface';
 
 export const postd_current: STUDENTS[] = [
+ {
+    image: 'Saurabh Patel.jpg',
+    name: 'Dr. Saurabh Patel',
+    texta: 'Investigation of Direct Contact Condensation for Space Applications.',
+    textb: 'Year of Joining: 2025',
+    textc: '',
+  },
   {
     image: 'Sachin Tom.jpg',
-    name: 'Dr. Sachin Tom',
-    texta: 'Numerical study of flow boiling phenomena.',
+    name: 'Dr. Harpreet Kaur',
+    texta: '.',
     textb: 'Year of Joining: 2023',
     textc: '',
   },
 ];
 
 export const postd_alumni: STUDENTS[] = [
+  {
+    image: 'Sachin Tom.jpg',
+    name: 'Dr. Sachin Tom',
+    texta: 'Numerical study of flow boiling phenomena.',
+    textb: 'Year of Joining: 2023',
+    textc:
+      'Post doctoral researcher Heidelberg University.',
+  },
   {
     image: 'Rinku G.jpg',
     name: 'Dr. Rinku Kumar Gouda',
@@ -34,7 +49,7 @@ export const postd_alumni: STUDENTS[] = [
     texta: 'Boiling heat transfer: Severe accident analysis',
     textb: 'Year of graduation: 2022',
     textc:
-      'Current Position: Senior researcher Seoul National University , Seoul South Korea.',
+      'Current Position: Humboldt Research Fellow, Institute of Fluid Dynamics, Helmholtz-Zentrum Dresden-Rossendorf (HZDR).',
   },
   {
     image: 'Vipul P..jpg',
