@@ -11,7 +11,7 @@ export const postd_current: STUDENTS[] = [
   {
     image: 'Harpreet Kaur.jpg',
     name: 'Dr. Harpreet Kaur',
-    texta: '.',
+    texta: 'Effect of ultrasonic field on heat transfer rate of thermal systems.',
     textb: 'Year of Joining: 2023',
     textc: '',
   },
