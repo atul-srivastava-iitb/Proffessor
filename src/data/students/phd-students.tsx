@@ -4,8 +4,7 @@ export const phd_current: STUDENTS[] = [
    {
     name: 'Srikant Panigrahi',
     image: 'Manis.jpg',
-    texta:
-      '',
+    texta:'Interfacial transport phenomena, evaporation, two phases heat transfer.',
     textb: '',
     textc: '.',
   }, 
