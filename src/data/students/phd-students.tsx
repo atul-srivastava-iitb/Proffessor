@@ -3,7 +3,7 @@ import { STUDENTS } from '@/code/features/students/interface/student.interface';
 export const phd_current: STUDENTS[] = [
    {
     name: 'Srikant Panigrahi',
-    image: 'Manis.jpg',
+    image: 'Srikanta Panigrahi (1).jpg',
     texta:'Interfacial transport phenomena, evaporation, two phases heat transfer.',
     textb: '',
     textc: '.',
