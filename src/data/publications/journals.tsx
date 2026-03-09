@@ -17,7 +17,7 @@ export const journalsData: PUBLICATION[] = [
   },  
   {
     date: '2026',
-    initialText: 'Manish Kuar, Mohd Moiz, Atul Srivastava',
+    initialText: 'Manish Kumar, Mohd Moiz, Atul Srivastava',
     highlightedText:
       'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
@@ -25,7 +25,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2025',
-    initialText:'M. Moiz, R. Prajapat, A. Srivastava, A. Srivastava’,
+    initialText:'M. Moiz, R. Prajapat, A. Srivastava, A. Srivastava',
     highlightedText:'Machine learning-inspired study of dynamical parameters of single vapor bubble under nucleate flow boiling regime.',
     finalText: 'Appl. Therm. Eng. 259 (2025) 124827.',
     link: 'https://doi.org/10.1016/j.applthermaleng.2024.124827.',
@@ -33,7 +33,7 @@ export const journalsData: PUBLICATION[] = [
 {
     date: '2025',
     initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
-    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)’,
+    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)',
     finalText:'International Communications in Heat and Mass Transfer 162 (2025) 108668.',
     link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668.',
   },
