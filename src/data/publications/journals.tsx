@@ -39,10 +39,24 @@ export const journalsData: PUBLICATION[] = [
 },
 {
   date: '2025',
+  initialText: 'M. A. Shahdhaar, A. Srivastava, S. Singh',
+  highlightedText: 'Low Weber Number Immiscible Droplet Impact on a Water Pool: A Background-Oriented Schlieren Study on the Interfacial Dynamics and Capillary Wave Characteristics.',
+  finalText: 'Physical Review Fluids 10, 064002.',
+  link: 'https://doi.org/10.1103/PhysRevFluids.10.064002',
+},
+{
+  date: '2025',
   initialText: 'A. Kumar, M. A. Shahdhaar, J. H. Arakeri, A. Srivastava',
-  highlightedText: 'Gradients-based measurements to understand the boiling characteristics of dichloromethane for thermal management applications.',
-  finalText: 'International Journal of Multiphase Flow, 189, p.105258.',
+  highlightedText: 'Gradients-Based Measurements to Understand the Boiling Characteristics of Dichloromethane for Thermal Management Applications.',
+  finalText: 'International Journal of Multiphase Flow.',
   link: 'https://doi.org/10.1016/j.ijmultiphaseflow.2025.105258',
+},
+{
+  date: '2025',
+  initialText: 'M. A. Shahdhaar, S. Shukla, A. Srivastava',
+  highlightedText: 'Surface Wettability Effects on Droplet Dynamics and Heat Transfer on Heated Stainless-Steel Foils.',
+  finalText: 'ASME Journal of Thermal Science and Engineering Applications 17(4), 041001.',
+  link: 'https://doi.org/10.1115/1.4067634',
 },
 
   {
@@ -101,6 +115,14 @@ export const journalsData: PUBLICATION[] = [
     finalText: 'Int J Heat Mass Transf 233, 126006 (2024)',
     link: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.126006',
   },
+   {
+    date: '2024',
+    initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
+    highlightedText:
+      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities.',
+    finalText: 'Exp. Fluids 65, 3, 31 (2024)',
+    link: 'https://doi.org/10.1007/s00348-024-03769-1',
+  },
   {
   date: '2023',
   initialText: 'A. Kumar, P. Kangude, A. Srivastava',
@@ -109,14 +131,7 @@ export const journalsData: PUBLICATION[] = [
   link: 'https://doi.org/10.1063/5.0159841',
 },
 
- {
-    date: '2023',
-    initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
-    highlightedText:
-      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities.',
-    finalText: 'Exp. Fluids 65, 3, 31 (2024)',
-    link: 'https://doi.org/10.1007/s00348-024-03769-1',
-  },
+
   {
     date: '2023',
     initialText: 'M. Moiz, S.R.G. Vadlamudi, and A. Srivastava',
