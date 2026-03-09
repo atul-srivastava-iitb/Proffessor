@@ -31,6 +31,21 @@ export const journalsData: PUBLICATION[] = [
     link: 'https://doi.org/10.1016/j.nucengdes.2025.114582',
   },
   {
+  date: '2025',
+  initialText: 'A. Kumar, B. Abubakr, A. Srivastava',
+  highlightedText: 'Non-intrusive experiments on coupled bubble dynamics and heat transfer during nucleate boiling under varying pressure conditions.',
+  finalText: 'Applied Thermal Engineering, 261, p.125102.',
+  link: 'https://doi.org/10.1016/j.applthermaleng.2024.125102',
+},
+{
+  date: '2025',
+  initialText: 'A. Kumar, M. A. Shahdhaar, J. H. Arakeri, A. Srivastava',
+  highlightedText: 'Gradients-based measurements to understand the boiling characteristics of dichloromethane for thermal management applications.',
+  finalText: 'International Journal of Multiphase Flow, 189, p.105258.',
+  link: 'https://doi.org/10.1016/j.ijmultiphaseflow.2025.105258',
+},
+
+  {
     date: '2025',
     initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
     highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN).',
@@ -86,6 +101,14 @@ export const journalsData: PUBLICATION[] = [
     finalText: 'Int J Heat Mass Transf 233, 126006 (2024)',
     link: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.126006',
   },
+  {
+  date: '2023',
+  initialText: 'A. Kumar, P. Kangude, A. Srivastava',
+  highlightedText: 'Coupled bubble dynamics and interaction mechanisms of adjacently nucleated vapor bubbles under subcooled pool boiling regime.',
+  finalText: 'Physics of Fluids, 35(8).',
+  link: 'https://doi.org/10.1063/5.0159841',
+},
+
  {
     date: '2023',
     initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
@@ -201,7 +224,8 @@ export const journalsData: PUBLICATION[] = [
     highlightedText:
       'A comparative study on the microstructure development in Fe50Cu50 alloy prepared using aerodynamic levitation process and W-wire held process.',
     finalText:
-      'Journal of Alloys and Compounds Volume 925, https://doi.org/10.1016/j.jallcom.2022.166693',
+      'Journal of Alloys and Compounds Volume 925',
+    link:' https://doi.org/10.1016/j.jallcom.2022.166693',
   },
   {
     date: '2022',
@@ -253,9 +277,10 @@ export const journalsData: PUBLICATION[] = [
     initialText:
       'A. Gunjal, Gulshan Kumar Sinha, S. Narayan, A. Srivastava and M. D. Atrey',
     highlightedText:
-      'Simultaneous tracking of freezing front and temperature-distribution using lensless Fourier transform\n        Digital Holographic Interferometry with potential application in cryosurgery',
+      'Simultaneous tracking of freezing front and temperature-distribution using lensless Fourier transform Digital Holographic Interferometry with potential application in cryosurgery',
     finalText:
-      'Experimental thermal and Fluid Science, vol. 139, 110730.\n        https://doi.org/10.1016/j.expthermflusci.2022.110730, IF: 3.37',
+      'Experimental thermal and Fluid Science, vol. 139, 110730.',
+    link:'https://doi.org/10.1016/j.expthermflusci.2022.110730',
   },
   {
     date: '2022',
@@ -302,7 +327,8 @@ export const journalsData: PUBLICATION[] = [
     highlightedText:
       '"Microlayer dynamics during the\n        growth process of a single vapour bubble under subcooled flow boiling conditions',
     finalText:
-      'Journal of Fluid Mechanics (JFM), 931, A23. doi:10.1017/jfm.2021.958, IF: 4.245',
+      'Journal of Fluid Mechanics (JFM), 931, A23.',
+    link: 'doi:10.1017/jfm.2021.958',
   },
   {
     date: '2022',
@@ -331,7 +357,8 @@ export const journalsData: PUBLICATION[] = [
     highlightedText:
       'Role of microstructure and composition on the natural convection during ternary alloy solidification',
     finalText:
-      'Journal of Fluid Mechanics, Vol. 913, A41 (2021) doi:10.1017/jfm.2021.1',
+      'Journal of Fluid Mechanics, Vol. 913, A41 (2021) ',
+    link: 'https://doi:10.1017/jfm.2021.1',
   },
   {
     date: '2021',
@@ -345,8 +372,8 @@ export const journalsData: PUBLICATION[] = [
     initialText: 'Shyamkumar PI, S. Singh, A. Srivastava and M. Visaria',
     highlightedText:
       'Numerical investigation of thermal performance of key components of electric vehicles using nucleate boiling',
-    finalText:
-      'Heat Transfer Engineering, Vol. 43(1), pp. 83-100 (2020).\n        https://doi.org/10.1080/01457632.2020.1844450',
+    finalText:'Heat Transfer Engineering, Vol. 43(1), pp. 83-100 (2020).',
+    link: 'https://doi.org/10.1080/01457632.2020.1844450',
   },
   {
     date: '2021',
