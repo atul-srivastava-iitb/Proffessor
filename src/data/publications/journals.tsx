@@ -17,11 +17,18 @@ export const journalsData: PUBLICATION[] = [
   },  
   {
     date: '2026',
-    initialText: 'Manish Kumar, Mohd Moiz, Atul Srivastava',
+    initialText: 'M. Kumar, M. Moiz, A. Srivastava',
     highlightedText:
       'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
-    link: 'https://doi.org/10.1016/J.NUCENGDES.2025.114582.',
+    link: 'https://doi.org/10.1016/j.nucengdes.2025.114582.',
+  },
+  {
+    date: '2025',
+    initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
+    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)',
+    finalText:'International Communications in Heat and Mass Transfer 162 (2025) 108668.',
+    link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668.',
   },
   {
     date: '2025',
@@ -29,13 +36,6 @@ export const journalsData: PUBLICATION[] = [
     highlightedText:'Machine learning-inspired study of dynamical parameters of single vapor bubble under nucleate flow boiling regime.',
     finalText: 'Appl. Therm. Eng. 259 (2025) 124827.',
     link: 'https://doi.org/10.1016/j.applthermaleng.2024.124827.',
-  },
-{
-    date: '2025',
-    initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
-    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)',
-    finalText:'International Communications in Heat and Mass Transfer 162 (2025) 108668.',
-    link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668.',
   },
   {
     date: '2025',
@@ -55,14 +55,6 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2024',
-    initialText: 'M. Moiz, S.R.G. Vadlamudi, and A. Srivastava',
-    highlightedText:
-      'Comprehensive experimental thermal analysis of single bubble nucleation in vertical flow boiling: Whole field temperature and microlayer dynamics.',
-    finalText: 'Int J Heat Mass Transf 233, 126006 (2024)',
-    link: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.126006',
-  },
-  {
-    date: '2024',
     initialText:
       'S.R.G. Vadlamudi, M. Moiz, A. Srivastava, U. Hampel, and W. Ding',
     highlightedText:
@@ -78,6 +70,14 @@ export const journalsData: PUBLICATION[] = [
     finalText:
       'International Communications in Heat and Mass Transfer 159, 108160 (2024)',
     link: 'https://doi.org/10.1016/j.icheatmasstransfer.2024.108160',
+  },
+  {
+    date: '2024',
+    initialText: 'M. Moiz, S.R.G. Vadlamudi, and A. Srivastava',
+    highlightedText:
+      'Comprehensive experimental thermal analysis of single bubble nucleation in vertical flow boiling: Whole field temperature and microlayer dynamics.',
+    finalText: 'Int J Heat Mass Transf 233, 126006 (2024)',
+    link: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.126006',
   },
  {
     date: '2023',
