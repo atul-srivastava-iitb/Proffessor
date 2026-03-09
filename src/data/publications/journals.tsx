@@ -16,6 +16,13 @@ export const journalsData: PUBLICATION[] = [
     link: 'https://doi.org/10.1016/j.applthermaleng.2026.129873',
   },  
   {
+  date: '2026',
+  initialText: 'Y. Yemalwad, A. Kumar, A. Srivastava',
+  highlightedText: 'Non-intrusive diagnostics of bubble behavior and boundary layer modification under ultrasonic excitation in pool boiling studies.',
+  finalText: 'International Communications in Heat and Mass Transfer, 172, p.110360.',
+  link: 'https://doi.org/10.1016/j.icheatmasstransfer.2025.110360',
+},
+  {
     date: '2026',
     initialText: 'M. Kumar, M. Moiz, A. Srivastava',
     highlightedText:
