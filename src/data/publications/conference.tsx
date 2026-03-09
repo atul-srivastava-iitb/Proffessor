@@ -3,16 +3,16 @@ import { PUBLICATION } from '@/code/features/publications/schema/publication.sch
 export const conferenceData: PUBLICATION[] = [
  {
     date: '2025',
-    initialText: 'Mohd Moiz, Manish Kumar, Atul Srivatava',
+    initialText: 'M. Moiz, M. Kumar, A. Srivatava',
     highlightedText:
-      'Experiments to Understand Bubble Dynamics and Associated Heat Transfer for a Single Bubble During Nucleate Flow Boiling on a Steel Surface, (2025).',
+      'Experiments to Understand Bubble Dynamics and Associated Heat Transfer for a Single Bubble During Nucleate Flow Boiling on a Steel Surface.',
     finalText:
-      'In Proceedings of the 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference. IIT Jodhpur, Jodhpur-342030,Rajasthan, India.',
+      'The 11th World Congress on Mechanical, Chemical, and Material Engineering, Paris, France.',
     link: 'https://doi.org/10.11159/htff25.173',
   },
   {
     date: '2025',
-    initialText: 'Kumar A., Shahdhaar, M. A. , Srivastava, A.',
+    initialText: 'A. Kumar, M.A. Shahdhaar, A. Srivastava',
     highlightedText:
       'Optical Diagnostics of Vapor Dynamics and Condensation in a Thermally Stratified Immiscible DCM–Water Configuration.',
     finalText:
@@ -20,32 +20,48 @@ export const conferenceData: PUBLICATION[] = [
     },
   {
     date: '2024',
-    initialText: 'Kumar A., Shahdhaar, M. A. , Srivastava, A.',
+    initialText: 'M. Moiz, S.R.G. Vadlamudi, A. Srivatava',
+    highlightedText:'Ignored/Intriguing Processes Involved During Bubble Lift-Off Stage in Flow Boiling, The 9th World Congress on Momentum.',
+    finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
+     link: 'https://doi.org/10.11159/icmfht24.127',
+  },
+  {
+    date: '2024',
+    initialText: 'A. Kumar, M.A. Shahdhaar, A. Srivastava',
     highlightedText:'Experimental Investigation of Boiling Characteristics of High Volatile Fluids under Varying Heat Flux Levels.',
     finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
      link: 'doi:10.11159/icmfht24.13',
   },
   {
     date: '2024',
-    initialText: 'Shahdhaar, M. A., Kumar, A. Srivastava, A., Singh S.',
+    initialText: 'M.A. Shahdhaar, A. Kumar, A. Srivastava, S. Singh',
     highlightedText:'Evaporation Dynamics and Heat Transfer Characteristics of Droplets Impinging on Nano-Structured Surface of Varying Wettability.',
     finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
      link: 'doi: 10.11159/icmfht24.134',
   },
   {
     date: '2024',
-    initialText: 'Kumar, A., Srivastava, A.',
+    initialText: 'A. Kumar, A. Srivastava',
     highlightedText: 'Understanding bubble growth mechanism (s) of high volatile fluid using advanced gradients-based diagnostics.',
     finalText:'In Proceedings of the 18th UK Heat Transfer Conference, 9, p. 11. University of Birmingham, Birmingham United Kingdom.',
    },
   {
     date: '2024',
-    initialText: 'Abubakr, B., Kumar, A., Srivastava, A.',
+    initialText: 'B. Abubakr, A. Kumar, A. Srivastava',
     highlightedText:
       'Gradients-based diagnostics of nucleate pool boiling phenomena under atmospheric and sub-atmospheric conditions.',
     finalText:
       'In Proceedings of the 27th National and 5th International ISHMT-ASTFE Heat and Mass Transfer Conference. IIT Patna, Patna-801106, Bihar, India.Begel House Inc.',
      link: 'doi:10.1615/IHMTC-2023.1390',
+  },
+  {
+    date: '2024',
+    initialText: 'M. Moiz, M. Sameer, A. Srivatava',
+    highlightedText:
+      'Coupled vapor bubble and microlayer dynamics during nucleate flow boiling on nanocoated surfaces offering varying wettability, (2024).',
+    finalText:
+      'Proceedings of the 27th National and 5th International ISHMT-ASTFE Heat and Mass Transfer Conference December 14-17, 2023, IIT Patna, Patna-801106, Bihar, India (2024) 1011–1016',
+    link: 'https://doi.org/10.1615/IHMTC-2023.1640',
   },
   {
     date: '2022',
