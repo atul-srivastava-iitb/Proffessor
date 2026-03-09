@@ -17,7 +17,7 @@ export const journalsData: PUBLICATION[] = [
   },  
   {
     date: '2026',
-    initialText: 'Manish Kumar, Mohd Moiz, Atul Srivastava',
+    initialText: 'Manish Kuar, Mohd Moiz, Atul Srivastava',
     highlightedText:
       'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
