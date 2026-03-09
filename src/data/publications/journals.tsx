@@ -6,14 +6,14 @@ export const journalsData: PUBLICATION[] = [
     initialText: 'M. Moiz, A. Shetty, A. Srivastava',
     highlightedText:'Two-stage machine learning framework for investigating vapor bubble dynamics in nucleate flow boiling.',
     finalText: 'AI Thermal Fluids 5 (2026) 100031.',
-    link: 'https://doi.org/10.1016/j.aitf.2026.100031.',
+    link: 'https://doi.org/10.1016/j.aitf.2026.100031',
   },
   {
     date: '2026',
     initialText: 'M. Moiz, A. Shetty, A. Srivastava',
     highlightedText:'Data-driven empirical correlation framework for full-cycle vapor bubble dynamics in nucleate flow boiling.',
     finalText: 'Appl. Therm. Eng. (2026) 129873.',
-    link: 'https://doi.org/10.1016/j.applthermaleng.2026.129873.',
+    link: 'https://doi.org/10.1016/j.applthermaleng.2026.129873',
   },  
   {
     date: '2026',
@@ -21,7 +21,7 @@ export const journalsData: PUBLICATION[] = [
     highlightedText:
       'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
-    link: 'https://doi.org/10.1016/j.nucengdes.2025.114582.',
+    link: 'https://doi.org/10.1016/j.nucengdes.2025.114582',
   },
   {
     date: '2025',
@@ -35,19 +35,19 @@ export const journalsData: PUBLICATION[] = [
     initialText:'M. Moiz, R. Prajapat, A. Srivastava, A. Srivastava',
     highlightedText:'Machine learning-inspired study of dynamical parameters of single vapor bubble under nucleate flow boiling regime.',
     finalText: 'Appl. Therm. Eng. 259 (2025) 124827.',
-    link: 'https://doi.org/10.1016/j.applthermaleng.2024.124827.',
+    link: 'https://doi.org/10.1016/j.applthermaleng.2024.124827',
   },
   {
     date: '2025',
     initialText: 'Singhal, A., Tom, S., Khan, A. A., Srivastava, A., Agarwal, D. K., and Atrey, M. D.',
     highlightedText:
       'Simultaneous Mapping of Bubbling Regimes and Thermal Layer During Direct Contact Condensation of Steam Using Gradients-Based Approach.',
-    finalText: 'ASME. J. Heat Mass Transfer.2025, 147(5), 051602.',
+    finalText: 'ASME. J. Heat Mass Transfer.2025, 147(5), 051602',
     link: 'https://doi.org/10.1115/1.4067525',
   }, 
   {
     date: '2024',
-    initialText: 'Sachin Tom and Atul Srivastava',
+    initialText: 'S. Tom and A. Srivastava',
     highlightedText:
       'Coupled Wall Boiling and Population Balance Model for High Void Fraction Flows Under Sub-Cooled Nucleate Boiling Regime: Model Development and Validation.',
     finalText: 'ASME Journal of Heat and Mass Transfer 146(12), 2024',
@@ -89,14 +89,6 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2023',
-    initialText: 'S.R.G. Vadlamudi, M. Moiz, and A. Srivastava',
-    highlightedText:
-      'Microlayer dynamics of hydrodynamically interacting vapour bubbles in flow boiling',
-    finalText: 'J Fluid Mech 958, A44 (2023)',
-    link: 'https://doi.org/10.1017/jfm.2023.121',
-  },
-  {
-    date: '2023',
     initialText: 'M. Moiz, S.R.G. Vadlamudi, and A. Srivastava',
     highlightedText:
       'Experiments to understand microlayer and dry patch dynamics under subcooled nucleate flow boiling in a vertically oriented rectangular channel',
@@ -105,7 +97,15 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2023',
-    initialText: 'Gunjal A, Srivastava A, Atrey MD',
+    initialText: 'S.R.G. Vadlamudi, M. Moiz, and A. Srivastava',
+    highlightedText:
+      'Microlayer dynamics of hydrodynamically interacting vapour bubbles in flow boiling',
+    finalText: 'J Fluid Mech 958, A44 (2023)',
+    link: 'https://doi.org/10.1017/jfm.2023.121',
+  },
+  {
+    date: '2023',
+    initialText: 'A. Gunjal, A. Srivastava, MD. Atrey',
     highlightedText:
       'Performance evaluation of liquid nitrogen-cooled  cryoprobes using a combined numerical and experimental approach',
     finalText: 'Cryogenics 2023;129:103627.',
@@ -133,12 +133,12 @@ export const journalsData: PUBLICATION[] = [
       'A. Gunjal, Gulshan Kumar Sinha, A. Srivastava and M. D. Atrey',
     highlightedText:
       'Numerical and experimental investigation on tracking of freezing front during the cryosurgical freezing of a tissue-\n        mimicking medium',
-    finalText:
-      'Computational Thermal Sciences 15(2), 65–82 (2023).\n        10.1615/ComputThermalScien.2022043292, IF: 1.66',
+    finalText: 'Computational Thermal Sciences 15(2), 65–82 (2023).',
+    link: 10.1615/ComputThermalScien.2022043292',
   },
   {
     date: '2023',
-    initialText: 'M. Moiz, Sai Raja Gopal Vadlamudi and Atul Srivastava',
+    initialText: 'M. Moiz, S.R.G Vadlamudi, A. Srivastava',
     highlightedText:
       'Experiments to understand bubble base growth mechanism(s) on hydrophobic surfaces under the influence of bulk flow inertia during nucleate boiling regime.',
     finalText:
@@ -163,7 +163,7 @@ export const journalsData: PUBLICATION[] = [
   {
     date: '2023',
     initialText:
-      'Gulshan Kumar Sinha, S. K. Utadiya, A. Patel, S. Narayan, A. Anand and A. Srivastava',
+      'G.K. Sinha, S. K. Utadiya, A. Patel, S. Narayan, A. Anand and A. Srivastava',
     highlightedText:
       'Imaging convective phenomena inside highly refractive cylindrical enclosures',
     finalText:
@@ -188,7 +188,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'Debaraj Sahoo, Manas Paliwal, A. Srivastava, Sushil Mishra',
+    initialText: 'D. Sahoo, M. Paliwal, A. Srivastava, S. Mishra',
     highlightedText:
       'A comparative study on the microstructure development in Fe50Cu50 alloy prepared using aerodynamic levitation process and W-wire held process',
     finalText:
