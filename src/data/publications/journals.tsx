@@ -1,7 +1,20 @@
 import { PUBLICATION } from '@/code/features/publications/schema/publication.schema';
 
 export const journalsData: PUBLICATION[] = [
-  
+ {
+    date: '2026',
+    initialText: 'M. Moiz, A. Shetty, A. Srivastava',
+    highlightedText:'Two-stage machine learning framework for investigating vapor bubble dynamics in nucleate flow boiling.',
+    finalText: 'AI Thermal Fluids 5 (2026) 100031.',
+    link: 'https://doi.org/10.1016/j.aitf.2026.100031.',
+  },
+  {
+    date: '2026',
+    initialText: 'M. Moiz, A. Shetty, A. Srivastava',
+    highlightedText:'Data-driven empirical correlation framework for full-cycle vapor bubble dynamics in nucleate flow boiling.',
+    finalText: 'Appl. Therm. Eng. (2026) 129873.',
+    link: 'https://doi.org/10.1016/j.applthermaleng.2026.129873.',
+  },  
   {
     date: '2026',
     initialText: 'Manish Kumar, Mohd Moiz, Atul Srivastava',
