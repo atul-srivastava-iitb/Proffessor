@@ -358,7 +358,7 @@ export const journalsData: PUBLICATION[] = [
       'Role of microstructure and composition on the natural convection during ternary alloy solidification',
     finalText:
       'Journal of Fluid Mechanics, Vol. 913, A41 (2021) ',
-    link: 'https://doi:10.1017/jfm.2021.1',
+    link: 'https://doi.org/10.1017/jfm.2021.1',
   },
   {
     date: '2021',
