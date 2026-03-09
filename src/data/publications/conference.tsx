@@ -1,9 +1,55 @@
 import { PUBLICATION } from '@/code/features/publications/schema/publication.schema';
 
 export const conferenceData: PUBLICATION[] = [
+ {
+    date: '2025',
+    initialText: 'Mohd Moiz, Manish Kumar, Atul Srivatava',
+    highlightedText:
+      'Experiments to Understand Bubble Dynamics and Associated Heat Transfer for a Single Bubble During Nucleate Flow Boiling on a Steel Surface, (2025).',
+    finalText:
+      'In Proceedings of the 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference. IIT Jodhpur, Jodhpur-342030,Rajasthan, India.',
+    link: 'https://doi.org/10.11159/htff25.173',
+  },
+  {
+    date: '2025',
+    initialText: 'Kumar A., Shahdhaar, M. A. , Srivastava, A.',
+    highlightedText:
+      'Optical Diagnostics of Vapor Dynamics and Condensation in a Thermally Stratified Immiscible DCM–Water Configuration.',
+    finalText:
+      'In Proceedings of the 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference. IIT Jodhpur, Jodhpur-342030,Rajasthan, India.',
+    },
+  {
+    date: '2024',
+    initialText: 'Kumar A., Shahdhaar, M. A. , Srivastava, A.',
+    highlightedText:'Experimental Investigation of Boiling Characteristics of High Volatile Fluids under Varying Heat Flux Levels.',
+    finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
+     link: 'doi:10.11159/icmfht24.13',
+  },
+  {
+    date: '2024',
+    initialText: 'Shahdhaar, M. A., Kumar, A. Srivastava, A., Singh S.',
+    highlightedText:'Evaporation Dynamics and Heat Transfer Characteristics of Droplets Impinging on Nano-Structured Surface of Varying Wettability.',
+    finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
+     link: 'doi: 10.11159/icmfht24.134',
+  },
+  {
+    date: '2024',
+    initialText: 'Kumar, A., Srivastava, A.',
+    highlightedText: 'Understanding bubble growth mechanism (s) of high volatile fluid using advanced gradients-based diagnostics.',
+    finalText:'In Proceedings of the 18th UK Heat Transfer Conference, 9, p. 11. University of Birmingham, Birmingham United Kingdom.',
+   },
+  {
+    date: '2024',
+    initialText: 'Abubakr, B., Kumar, A., Srivastava, A.',
+    highlightedText:
+      'Gradients-based diagnostics of nucleate pool boiling phenomena under atmospheric and sub-atmospheric conditions.',
+    finalText:
+      'In Proceedings of the 27th National and 5th International ISHMT-ASTFE Heat and Mass Transfer Conference. IIT Patna, Patna-801106, Bihar, India.Begel House Inc.',
+     link: 'doi:10.1615/IHMTC-2023.1390',
+  },
   {
     date: '2022',
-    initialText: 'J. Han, Gulshan Kumar Sinha, Hyungdae Kim ,',
+    initialText: 'J. Han, Gulshan Kumar Sinha, Hyungdae Kim',
     highlightedText:
       'Measurement of condensation heat transfer\n      under subcooled boiling condition using rainbow schlieren deflectometry',
     finalText:
