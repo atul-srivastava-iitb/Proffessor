@@ -3,6 +3,22 @@ import { PUBLICATION } from '@/code/features/publications/schema/publication.sch
 export const journalsData: PUBLICATION[] = [
   
   {
+    date: '2026',
+    initialText: 'Manish Kumar, Mohd Moiz, Atul Srivastava',
+    highlightedText:
+      'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
+    finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
+    link: 'https://doi.org/10.1016/J.NUCENGDES.2025.114582.',
+  },
+  {
+    date: '2025',
+    initialText: 'Singhal, A., Tom, S., Khan, A. A., Srivastava, A., Agarwal, D. K., and Atrey, M. D.',
+    highlightedText:
+      'Simultaneous Mapping of Bubbling Regimes and Thermal Layer During Direct Contact Condensation of Steam Using Gradients-Based Approach.',
+    finalText: 'ASME. J. Heat Mass Transfer.2025, 147(5), 051602.',
+    link: 'https://doi.org/10.1115/1.4067525',
+  }, 
+  {
     date: '2024',
     initialText: 'Sachin Tom and Atul Srivastava',
     highlightedText:
