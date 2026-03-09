@@ -28,7 +28,7 @@ export const journalsData: PUBLICATION[] = [
     initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
     highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)',
     finalText:'International Communications in Heat and Mass Transfer 162 (2025) 108668.',
-    link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668.',
+    link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668',
   },
   {
     date: '2025',
@@ -83,7 +83,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2023',
     initialText: 'M. A. Shahdhaar, A. Srivastava, and A. Srivastava',
     highlightedText:
-      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities',
+      'Machine learning-aided investigation of immiscible droplet impact on liquid pools across varying depths and droplet viscosities.',
     finalText: 'Exp. Fluids 65, 3, 31 (2024)',
     link: 'https://doi.org/10.1007/s00348-024-03769-1',
   },
@@ -91,7 +91,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2023',
     initialText: 'M. Moiz, S.R.G. Vadlamudi, and A. Srivastava',
     highlightedText:
-      'Experiments to understand microlayer and dry patch dynamics under subcooled nucleate flow boiling in a vertically oriented rectangular channel',
+      'Experiments to understand microlayer and dry patch dynamics under subcooled nucleate flow boiling in a vertically oriented rectangular channel.',
     finalText: 'Physics of Fluids 35(4), 043320 (2023)',
     link: 'https://doi.org/10.1063/5.0142177',
   },
@@ -99,15 +99,15 @@ export const journalsData: PUBLICATION[] = [
     date: '2023',
     initialText: 'S.R.G. Vadlamudi, M. Moiz, and A. Srivastava',
     highlightedText:
-      'Microlayer dynamics of hydrodynamically interacting vapour bubbles in flow boiling',
+      'Microlayer dynamics of hydrodynamically interacting vapour bubbles in flow boiling.',
     finalText: 'J Fluid Mech 958, A44 (2023)',
     link: 'https://doi.org/10.1017/jfm.2023.121',
   },
   {
     date: '2023',
-    initialText: 'A. Gunjal, A. Srivastava, MD. Atrey',
+    initialText: 'A. Gunjal, A. Srivastava, M.D. Atrey',
     highlightedText:
-      'Performance evaluation of liquid nitrogen-cooled  cryoprobes using a combined numerical and experimental approach',
+      'Performance evaluation of liquid nitrogen-cooled  cryoprobes using a combined numerical and experimental approach.',
     finalText: 'Cryogenics 2023;129:103627.',
     link: 'doi:10.1016/j.cryogenics.2023.103627',
   },
@@ -147,7 +147,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2023',
-    initialText: 'Subhash Kumar, A. Anand and Atul Srivastava',
+    initialText: 'S. Kumar, A. Anand and A. Srivastava',
     highlightedText:
       'Digital Holographic imaging of thermal signatures and its use in inhomogeneity identification',
     finalText: 'Optics and Lasers in Engineering, Vol. 160, 107227 (2023)',
@@ -171,7 +171,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2023',
-    initialText: 'Kumar, A., Hinduja, C. and Srivastava, A.',
+    initialText: 'A. Kumar, C. Hinduja, and A. Srivastava',
     highlightedText:
       '"Non-Intrusive Diagnostics of Differentially-Heated Two-Component Immiscible Fluid Layer with Phase Change',
     finalText:
@@ -196,7 +196,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'Apurva Vyas and Atul Srivastava',
+    initialText: 'A. Vyas and A. Srivastava',
     highlightedText:
       'Investigation of vorticity characteristics in the wake region of an eccentrically embedded cylinder in a rectangular channel',
     finalText:
@@ -204,21 +204,21 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'S.S. Rao and Atul Srivastava',
+    initialText: 'S.S. Rao and A. Srivastava',
     highlightedText:
       'Multi view interferometric tomography measurements of convective phenomena in a differentially-heated nanofluid layer',
     finalText: 'Experimental Heat Transfer, In Press (2022).',
   },
   {
     date: '2022',
-    initialText: 'Shyamkumar PI, S. Singh, Atul Srivastava and M. Visaria',
+    initialText: 'Shyamkumar PI, S. Singh, A. Srivastava and M. Visaria',
     highlightedText:
       'A comprehensive model for single bubble nucleate flow boiling',
     finalText: 'ASME Journal of Heat Transfer, In Press (2022)',
   },
   {
     date: '2022',
-    initialText: 'Prasad Kangude and Atul Srivastava',
+    initialText: 'P. Kangude and A. Srivastava',
     highlightedText:
       'On the coupled thermal and hydrodynamic interaction of adjacently located vapor bubbles on highly wetting surfaces',
     finalText: 'Langmuir, Vol. 38, 45, pp. 13647–13658 (2022)',
@@ -226,7 +226,7 @@ export const journalsData: PUBLICATION[] = [
   {
     date: '2022',
     initialText:
-      'G.K. Sinha, S. K. Utadiya A. Patel, S. Narayan, Arun and Atul Srivastava',
+      'G.K. Sinha, S. K. Utadiya A. Patel, S. Narayan, A. Anand and A. Srivastava',
     highlightedText:
       'Imaging convective phenomena inside highly refractive cylindrical enclosures',
     finalText:
@@ -257,7 +257,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'Prasad Kangude and Atul Srivastava',
+    initialText: 'P. Kangude and A. Srivastava',
     highlightedText:
       'Experiments to understand bubble base evaporation mechanisms and heat transfer on nano-coated surfaces of varying wettability under nucleate pool boiling regime',
     finalText:
@@ -265,7 +265,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'Surya Narayan, A. Bansal and Atul Srivastava',
+    initialText: 'S. Narayan, A. Bansal and A. Srivastava',
     highlightedText:
       'Simultaneous investigation of thermal and vapour concentration fields around an impinging droplet using dual wavelength interferometry',
     finalText:
@@ -273,7 +273,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2022',
-    initialText: 'Atul Srivastava and Sumit Kumar',
+    initialText: 'A. Srivastava and S. Kumar',
     highlightedText:
       'Modelling the thermal response of laser-irradiated biological samples through generalized non-Fourier heat conduction models: A review',
     finalText: 'Annual Review of Heat Transfer, Vol. 24, 339-433 (2022)',
@@ -333,7 +333,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2021',
-    initialText: 'Shyamkumar PI, S. Singh, Atul Srivastava and M. Visaria',
+    initialText: 'Shyamkumar PI, S. Singh, A. Srivastava and M. Visaria',
     highlightedText:
       'Numerical investigation of thermal performance of key components of electric vehicles using nucleate boiling',
     finalText:
@@ -341,7 +341,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2021',
-    initialText: 'Prasad Kangude and Atul Srivastava',
+    initialText: 'P. Kangude and A. Srivastava',
     highlightedText:
       'On the mechanisms leading to ordered nanoparticles deposition during single bubble nucleate pool boiling regime',
     finalText:
@@ -365,7 +365,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2021',
-    initialText: 'Amit K. Yadav, A. Choudhury and Atul Srivastava',
+    initialText: 'A. K. Yadav, A. Choudhury and A. Srivastava',
     highlightedText:
       'Spray Combustion of Rocket-Grade Kerosene Based Nanofluid with Oxygen',
     finalText:
@@ -373,7 +373,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2021',
-    initialText: 'Atul Srivastava, Surya Narayan L. and Gulshan Sinha',
+    initialText: 'A. Srivastava, S. Narayan L. and G.K. Sinha',
     highlightedText:
       'Background oriented schlieren for flow and thermal systems: Principles of image formation and applications (Invited Review Article)',
     finalText:
@@ -389,7 +389,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2021',
-    initialText: 'Surya Narayan, Vijay Pasi and Atul Srivastava',
+    initialText: 'S. Narayan, V. Pasi and A. Srivastava',
     highlightedText:
       'Whole field measurements to understand the role of varying depths of nucleation site on vapor bubble dynamics and heat transfer rates',
     finalText: 'ASME Journal of Heat Transfer, Vol. 143, 021601-1-14 (2021)',
@@ -411,7 +411,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2020',
-    initialText: 'Gulshan K. Sinha and Atul Srivastava',
+    initialText: 'G.K. Sinha and A. Srivastava',
     highlightedText:
       'Whole field measurements to quantify the thermal impact of single vapor bubble under nucleate flow boiling regime',
     finalText:
@@ -441,7 +441,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2020',
-    initialText: 'Prasad Kangude and Atul Srivastava',
+    initialText: 'P. Kangude and A. Srivastava',
     highlightedText:
       'Understanding the growth mechanism of single vapor bubble on a hydrophobic surface: Experiments under nucleate boiling regime',
     finalText:
@@ -449,14 +449,14 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2020',
-    initialText: 'Anish Gunjal, Atul Srivastava and M. D. Atrey',
+    initialText: 'A. Gunjal, A. Srivastava and M. D. Atrey',
     highlightedText:
       'Numerical investigation of three-dimensional freezing phenomena with potential applications into cryosurgery.',
     finalText: 'Heat Transfer Research, Vol. 51, pp. 1669-1699 (2020).',
   },
   {
     date: '2020',
-    initialText: 'Ila Thakur, Atul Srivastava, Shyamprasad Karagadde',
+    initialText: 'I. Thakur, A. Srivastava, S. Karagadde',
     highlightedText:
       'Real-time Imaging and Visualization of Solutal Plume during Bottom-cooled solidification',
     finalText:
