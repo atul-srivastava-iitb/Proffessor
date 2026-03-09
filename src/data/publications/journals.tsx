@@ -26,7 +26,7 @@ export const journalsData: PUBLICATION[] = [
   {
     date: '2025',
     initialText: 'M. Moiz, R. Prajapat, A. Srivastava',
-    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN)',
+    highlightedText:'Prediction of bubble dynamics parameters in nucleate flow boiling using artificial neural networks (ANN).',
     finalText:'International Communications in Heat and Mass Transfer 162 (2025) 108668.',
     link:'https://doi.org/10.1016/j.icheatmasstransfer.2025.108668',
   },
@@ -132,7 +132,7 @@ export const journalsData: PUBLICATION[] = [
     initialText:
       'A. Gunjal, G.K. Sinha, A. Srivastava and M. D. Atrey',
     highlightedText:
-      'Numerical and experimental investigation on tracking of freezing front during the cryosurgical freezing of a tissue-\n        mimicking medium',
+      'Numerical and experimental investigation on tracking of freezing front during the cryosurgical freezing of a tissue mimicking medium.',
     finalText: 'Computational Thermal Sciences 15(2), 65–82 (2023).',
     link: '10.1615/ComputThermalScien.2022043292',
   },
@@ -149,14 +149,15 @@ export const journalsData: PUBLICATION[] = [
     date: '2023',
     initialText: 'S. Kumar, A. Anand and A. Srivastava',
     highlightedText:
-      'Digital Holographic imaging of thermal signatures and its use in inhomogeneity identification',
+      'Digital Holographic imaging of thermal signatures and its use in inhomogeneity identification.',
     finalText: 'Optics and Lasers in Engineering, Vol. 160, 107227 (2023)',
+     link: 'https://doi.org/10.1016/j.optlaseng.2022.107227',
   },
   {
     date: '2023',
     initialText: 'M. A. Shahdhaar, A. Srivastava, and S. Singh',
     highlightedText:
-      'On the interfacial deformations and thermal characteristics exhibiting self-similar behavior under the action of a line heat source',
+      'On the interfacial deformations and thermal characteristics exhibiting self-similar behavior under the action of a line heat source.',
     finalText: 'Phys. Fluids 35, 6 (2023)',
     link: 'https://doi.org/10.1063/5.0152582',
   },
@@ -165,32 +166,33 @@ export const journalsData: PUBLICATION[] = [
     initialText:
       'G.K. Sinha, S. K. Utadiya, A. Patel, S. Narayan, A. Anand and A. Srivastava',
     highlightedText:
-      'Imaging convective phenomena inside highly refractive cylindrical enclosures',
-    finalText:
-      'Heat Transfer Engineering, Vol. 45(1), Jan. 2023. (Accepted) IF: 2.431',
+      'Imaging convective phenomena inside highly refractive cylindrical enclosures.',
+    finalText:'Heat Transfer Engineering, Vol. 45(1), Jan. 2023.',
+    link: 'https://doi.org/10.1080/01457632.2023.2171812',
   },
   {
     date: '2023',
     initialText: 'A. Kumar, C. Hinduja, and A. Srivastava',
     highlightedText:
-      '"Non-Intrusive Diagnostics of Differentially-Heated Two-Component Immiscible Fluid Layer with Phase Change',
+      'Non-Intrusive Diagnostics of Differentially-Heated Two-Component Immiscible Fluid Layer with Phase Change.',
     finalText:
       'International Communications in Heat and Mass Transfer 140 (2023) 106513',
+     link: 'https://doi.org/10.1016/j.icheatmasstransfer.2022.106513',
   },
   {
     date: '2022',
     initialText: 'A. Srivastava, S. Narayan, Gulshan Kumar Sinha',
     highlightedText:
-      'Background oriented schlieren for flow and thermal systems: Principles of image formation and applications',
+      'Background oriented schlieren for flow and thermal systems: Principles of image formation and applications.',
     finalText:
-      'J. Flow Visualization and Image Processing, 2022, vol. 29(1), 29–68. (Review article written on the invitation from Editor-\n        in-Chief of the journal) https://doi.org/10.1615/JFlowVisImageProc.2021039623. IF: 0.61',
+      'J. Flow Visualization and Image Processing, 2022, vol. 29(1), 29–68.',
     link: 'https://doi.org/10.1615/JFlowVisImageProc.2021039623',
   },
   {
     date: '2022',
     initialText: 'D. Sahoo, M. Paliwal, A. Srivastava, S. Mishra',
     highlightedText:
-      'A comparative study on the microstructure development in Fe50Cu50 alloy prepared using aerodynamic levitation process and W-wire held process',
+      'A comparative study on the microstructure development in Fe50Cu50 alloy prepared using aerodynamic levitation process and W-wire held process.',
     finalText:
       'Journal of Alloys and Compounds Volume 925, https://doi.org/10.1016/j.jallcom.2022.166693',
   },
@@ -198,7 +200,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2022',
     initialText: 'A. Vyas and A. Srivastava',
     highlightedText:
-      'Investigation of vorticity characteristics in the wake region of an eccentrically embedded cylinder in a rectangular channel',
+      'Investigation of vorticity characteristics in the wake region of an eccentrically embedded cylinder in a rectangular channel.',
     finalText:
       'Journal of Flow Visualization and Image Processing, Vol. 29, pp. 27-41 (2022).',
   },
@@ -206,7 +208,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2022',
     initialText: 'S.S. Rao and A. Srivastava',
     highlightedText:
-      'Multi view interferometric tomography measurements of convective phenomena in a differentially-heated nanofluid layer',
+      'Multi view interferometric tomography measurements of convective phenomena in a differentially-heated nanofluid layer.',
     finalText: 'Experimental Heat Transfer, In Press (2022).',
   },
   {
@@ -220,7 +222,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2022',
     initialText: 'P. Kangude and A. Srivastava',
     highlightedText:
-      'On the coupled thermal and hydrodynamic interaction of adjacently located vapor bubbles on highly wetting surfaces',
+      'On the coupled thermal and hydrodynamic interaction of adjacently located vapor bubbles on highly wetting surfaces.',
     finalText: 'Langmuir, Vol. 38, 45, pp. 13647–13658 (2022)',
   },
   {
@@ -228,7 +230,7 @@ export const journalsData: PUBLICATION[] = [
     initialText:
       'G.K. Sinha, S. K. Utadiya A. Patel, S. Narayan, A. Anand and A. Srivastava',
     highlightedText:
-      'Imaging convective phenomena inside highly refractive cylindrical enclosures',
+      'Imaging convective phenomena inside highly refractive cylindrical enclosures.',
     finalText:
       'Heat Transfer Engineering (Taylor and Francis), In Press (2022).',
   },
