@@ -1,7 +1,7 @@
 import { PUBLICATION } from '@/code/features/publications/schema/publication.schema';
 
 export const journalsData: PUBLICATION[] = [
- {
+  {
     date: '2026',
     initialText: 'M. Moiz, A. Shetty, A. Srivastava',
     highlightedText:'Two-stage machine learning framework for investigating vapor bubble dynamics in nucleate flow boiling.',
