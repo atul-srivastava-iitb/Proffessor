@@ -7,7 +7,7 @@ export const conferenceData: PUBLICATION[] = [
     highlightedText:
       'Experiments to Understand Bubble Dynamics and Associated Heat Transfer for a Single Bubble During Nucleate Flow Boiling on a Steel Surface.',
     finalText:
-      'The 11th World Congress on Mechanical, Chemical, and Material Engineering, Paris, France.',
+      'In Proceedings of the 11th World Congress on Mechanical, Chemical, and Material Engineering (MCM 2025). Paris, France.',
     link: 'https://doi.org/10.11159/htff25.173',
   },
   {
@@ -21,7 +21,7 @@ export const conferenceData: PUBLICATION[] = [
   {
     date: '2024',
     initialText: 'M. Moiz, S.R.G. Vadlamudi, A. Srivatava',
-    highlightedText:'Ignored/Intriguing Processes Involved During Bubble Lift-Off Stage in Flow Boiling, The 9th World Congress on Momentum.',
+    highlightedText:'Ignored/Intriguing Processes Involved During Bubble Lift-Off Stage in Flow Boiling.',
     finalText:'In Proceedings of the 9th World Congress on Momentum, Heat and Mass Transfer (MHMT 2024). London, United Kingdom.',
      link: 'https://doi.org/10.11159/icmfht24.127',
   },
