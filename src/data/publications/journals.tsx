@@ -19,7 +19,7 @@ export const journalsData: PUBLICATION[] = [
     date: '2026',
     initialText: 'M. Kumar, M. Moiz, A. Srivastava',
     highlightedText:
-      'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements,',
+      'Simultaneous mapping of bubble dynamics and thermal gradients during buoyancy-opposed pool boiling through schlieren measurements.',
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
     link: 'https://doi.org/10.1016/j.nucengdes.2025.114582',
   },
@@ -39,7 +39,7 @@ export const journalsData: PUBLICATION[] = [
   },
   {
     date: '2025',
-    initialText: 'Singhal, A., Tom, S., Khan, A. A., Srivastava, A., Agarwal, D. K., and Atrey, M. D.',
+    initialText: 'A. Singhal, S. Tom, A.A. Khan, A. Srivastava, D.K. Agarwal, and M.D. Atrey.',
     highlightedText:
       'Simultaneous Mapping of Bubbling Regimes and Thermal Layer During Direct Contact Condensation of Steam Using Gradients-Based Approach.',
     finalText: 'ASME. J. Heat Mass Transfer.2025, 147(5), 051602',
@@ -130,11 +130,11 @@ export const journalsData: PUBLICATION[] = [
   {
     date: '2023',
     initialText:
-      'A. Gunjal, Gulshan Kumar Sinha, A. Srivastava and M. D. Atrey',
+      'A. Gunjal, G.K. Sinha, A. Srivastava and M. D. Atrey',
     highlightedText:
       'Numerical and experimental investigation on tracking of freezing front during the cryosurgical freezing of a tissue-\n        mimicking medium',
     finalText: 'Computational Thermal Sciences 15(2), 65–82 (2023).',
-    link: 10.1615/ComputThermalScien.2022043292',
+    link: '10.1615/ComputThermalScien.2022043292',
   },
   {
     date: '2023',
