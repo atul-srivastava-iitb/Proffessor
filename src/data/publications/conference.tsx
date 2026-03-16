@@ -5,9 +5,9 @@ export const conferenceData: PUBLICATION[] = [
     date: '2025',
     initialText: 'Yemalwad Y., Aasi H.K. and  A. Srivatava',
     highlightedText:'Enhancement of Natural Convection Heat Transfer via Ultrasonic Excitation: A Schlieren-Based Investigation in Water.',
-    finalText:'IHMTC2025-193, Proceedings of the 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference, December 9–12, 2025, IIT Jodhpur, Rajasthan, India.',
-    link: ' ',
-  },{
+    finalText:'IHMTC2025-193, Proceedings of the 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference,December 9–12, 2025, IIT Jodhpur, Rajasthan, India.',
+  },
+ {
     date: '2025',
     initialText: 'M. Moiz, M. Kumar, A. Srivatava',
     highlightedText:
