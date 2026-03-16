@@ -30,6 +30,13 @@ export const journalsData: PUBLICATION[] = [
     finalText: 'Nuclear Engineering and Design 446 (2026) 114582.',
     link: 'https://doi.org/10.1016/j.nucengdes.2025.114582',
   },
+   {
+  date: '2025',
+  initialText: 'Yemalwad, Y., Aasi, H.K. and Srivastava, A',
+  highlightedText: 'Dynamic measurements of thermal boundary layer and heat transfer rates along a heated flat plate under the influence of ultrasonic field.',
+  finalText: 'Applied Thermal Engineering 266, 2025',
+  link: 'https://doi.org/10.1016/j.applthermaleng.2025.125734',
+},
   {
   date: '2025',
   initialText: 'A. Kumar, B. Abubakr, A. Srivastava',
