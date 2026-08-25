@@ -76,15 +76,7 @@ export const phd_current: STUDENTS[] = [
     textc: '',
     link: 'https://sites.google.com/view/mohd-moiz',
   },
-  {
-    name: 'Alok Kumar',
-    image: 'alok.jpg',
-    texta:
-      'Two-fluids multiphase natural convection in differentially-heated cavities for high heat flux',
-    textb: '',
-    textc: '',
-    link: 'https://sites.google.com/view/alokraj/home',
-  },
+
   {
     name: 'Ravi Kant',
     image: 'Ravikant.jpg',
@@ -105,8 +97,17 @@ export const phd_current: STUDENTS[] = [
 ];
 
 export const phd_alumni: STUDENTS[] = [
-  {
-    name: 'Debaraj sahoo',
+   {
+    name: 'Dr. Alok Kumar',
+    image: 'alok.jpg',
+    texta:
+      'Two-fluids multiphase natural convection in differentially-heated cavities for high heat flux',
+    textb:
+      'Current Position: Research Engineer aat Research and Development centre, Hitachi India Pvt. Ltd.',
+    textc: 'Year of graduation: 2026',
+  },
+   {
+    name: 'Dr. Debaraj sahoo',
     image: 'Debaraj.jpg',
     texta:
       'Study of microstructure evolution of Fe-Cu immiscible alloy using Aerodynamic levitation',
