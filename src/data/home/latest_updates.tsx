@@ -1,6 +1,13 @@
 export const imageLocation = `/latest_updates/`; // do not change this values
 
 export const latestupdates = [
+ {
+    image: `  alok.jpg`,
+    name: ` Dr. Alok Kumar `,
+    text: ` Dr. Alok Kumar completed her PhD defense and joined as Post doctoral fellow at .    `,
+  },
+
+  
   {
     image: `  IlaU.jpg`,
     name: ` Dr. Ila Thakur `,
