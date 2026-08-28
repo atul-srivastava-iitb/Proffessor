@@ -7,7 +7,11 @@ export const latestupdates = [
     text: ` Dr. Alok Kumar completed her PhD defense and joined as Post doctoral fellow at .    `,
   },
 
-  
+  {
+    image: `  alok.jpg`,
+    name: ` Dr. Debaraj Sahoo `,
+    text: ` Dr. Debaraj Sahoo completed her PhD defense and joined as Lotus Post doctoral fellow at Nagoya University, Japan.    `,
+  }, 
   {
     image: `  IlaU.jpg`,
     name: ` Dr. Ila Thakur `,
