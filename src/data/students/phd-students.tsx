@@ -104,7 +104,7 @@ export const phd_alumni: STUDENTS[] = [
     texta:
       'Study of microstructure evolution of Fe-Cu immiscible alloy using Aerodynamic levitation',
     textb:
-      'Current Position: ',
+      'Current Position: Lotus Post doctoral fellow at Nagoya University, Japan',
     textc: 'Year of graduation: 2024',
   },
    
