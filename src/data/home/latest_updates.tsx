@@ -8,7 +8,7 @@ export const latestupdates = [
   },
 
   {
-    image: `  Prasad-Kangude.jpg`,
+    image: `  Debaraj.jpg`,
     name: ` Dr. Debaraj Sahoo `,
     text: ` Dr. Debaraj Sahoo completed her PhD defense and joined as Lotus Post doctoral fellow at Nagoya University, Japan.    `,
   }, 
