@@ -25,18 +25,14 @@ export const latestupdates = [
   },
 
   {
-    image: `  Autif.jpg`,
-    name: ` Mohammad Autif Shahdhaar (PhD Student) `,
-    text: ` Mohammad Autif Shahdhaar has been awarded The Prime Minister's Research Fellows (PMRF) since 2021" .   `,
-  },
-  {
     image: ` moiznew.jpg`,
     name: ` Mohd Moiz (PhD Student) `,
     text: ` Mohd Moiz has been awarded The Prime Minister's Research Fellows (PMRF) " .   `,
   },
-  {
-    image: ` alok.jpg`,
-    name: ` Alok Kumar(PhD Student) `,
-    text: ` Alok Kumar has been awarded The Prime Minister's Research Fellows (PMRF) since 2021" .   `,
+   {
+    image: `  Autif.jpg`,
+    name: ` Mohammad Autif Shahdhaar (PhD Student) `,
+    text: ` Mohammad Autif Shahdhaar has been awarded The Prime Minister's Research Fellows (PMRF) since 2021" .   `,
   },
+
 ];
