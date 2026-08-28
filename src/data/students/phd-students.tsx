@@ -24,15 +24,7 @@ export const phd_current: STUDENTS[] = [
     textb: '',
     textc: '.',
   }, 
-   {
-    name: 'Mohamed Ilyas A',
-    image: 'Mohamed Ilyas A.jpg',
-    texta:
-      'Simultaneous thermal and flow field investigation of Vortex-Induced heat transfer enhancement.',
-    textb: '',
-    textc: '',
-    link: '',
-  },
+
   {
     name: 'Manish Kumar',
     image: 'Manish Kumar.jpeg',
@@ -107,7 +99,7 @@ export const phd_alumni: STUDENTS[] = [
     textc: 'Year of graduation: 2026',
   },
    {
-    name: 'Dr. Debaraj sahoo',
+    name: 'Dr. Debaraj Sahoo',
     image: 'Debaraj.jpg',
     texta:
       'Study of microstructure evolution of Fe-Cu immiscible alloy using Aerodynamic levitation',
