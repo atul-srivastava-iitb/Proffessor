@@ -55,7 +55,7 @@ export const phd_current: STUDENTS[] = [
     image: 'Mohammad Autif Shahdhaar.jpg',
     texta:
       'Evaporation and coalescence dynamics of droplets impacting on nanostructured surfaces of varying wettability.',
-    textb: '',
+    textb: 'PMRF',
     textc: 'Jointly supervised with Prof. Suneet Singh, DESE',
     link: 'https://sites.google.com/view/autif/home',
   },
@@ -63,8 +63,8 @@ export const phd_current: STUDENTS[] = [
     name: 'Mohd Moiz',
     image: 'moiznew.jpg',
     texta:
-      'Development of a novel two-phase flows based cooling system for thermal management of high heat flux applications.',
-    textb: '',
+      'On the coupled vapor bubble(s) and microlayer dynamics in conjunction with whole field thermal analysis during nucleate flow boiling in small length scale channels.',
+    textb: 'PMRF',
     textc: '',
     link: 'https://sites.google.com/view/mohd-moiz',
   },
