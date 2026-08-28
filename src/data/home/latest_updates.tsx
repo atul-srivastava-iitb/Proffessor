@@ -8,7 +8,7 @@ export const latestupdates = [
   },
 
   {
-    image: `  Debaraj.jpg`,
+    image: `  Prasad-Kangude.jpg`,
     name: ` Dr. Debaraj Sahoo `,
     text: ` Dr. Debaraj Sahoo completed her PhD defense and joined as Lotus Post doctoral fellow at Nagoya University, Japan.    `,
   }, 
@@ -19,7 +19,7 @@ export const latestupdates = [
   },
 
   {
-    image: `  Prasad k..jpg`,
+    image: `  Prasad-Kangude.jpg`,
     name: ` Dr. Prasad Adinath Kangude  `,
     text: ` Dr. Prasad Adinath Kangude completed his PhD defense and joined as Post doctoral fellow at Trinity College Dublin, Ireland.   `,
   },
